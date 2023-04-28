@@ -27,18 +27,8 @@ Step 2: ...
 Step 2 Screenshot
 ![Screenshot 2023-04-27 130731](https://user-images.githubusercontent.com/72155662/235204040-ce091336-a143-42b3-abeb-4ebefdcd6212.png)
 
+![Screenshot 2023-04-27 130654](https://user-images.githubusercontent.com/72155662/235204240-58472a8e-ffe8-437e-bafe-1ad93f5c2ff6.png)
 
-Contributing
-Information for anyone who wants to contribute to the project, including how to set up a development environment and how to submit changes.
 
-Setting up a Development Environment
-Clone this repository: git clone https://github.com/VeDaNt0421/Car-viewing-Website.git
-Install dependencies: npm install
-Set up environment variables: cp .env.example .env and fill in the necessary values.
-Submitting Changes
-Create a new branch: git checkout -b new-feature
-Make changes and commit them: git commit -am "Add new feature"
-Push the changes to the remote repository: git push origin new-feature
-Create a pull request on GitHub.
-License
-A description of the project's license and any relevant legal information
+
+
