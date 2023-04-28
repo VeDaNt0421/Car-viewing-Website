@@ -25,6 +25,8 @@ Step 1 Screenshot
 
 Step 2: ...
 Step 2 Screenshot
+![Screenshot 2023-04-27 130731](https://user-images.githubusercontent.com/72155662/235204040-ce091336-a143-42b3-abeb-4ebefdcd6212.png)
+
 
 Contributing
 Information for anyone who wants to contribute to the project, including how to set up a development environment and how to submit changes.
