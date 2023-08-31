@@ -11,7 +11,8 @@ License
 Installation
 A step-by-step guide on how to install and set up the project.
 
-Clone this repository: git clone https://github.com/VeDaNt0421/Car-viewing-Website.git
+Link: git clone https://github.com/VeDaNt0421/Car-viewing-Website.git
+file:///C:/Users/bhatn/Downloads/ridex-master/ridex-master/Car-Website/public/index.html
 Install dependencies: npm install
 Set up environment variables: cp .env.example .env and fill in the necessary values.
 Start the server: npm start
