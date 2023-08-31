@@ -1,5 +1,5 @@
 # Car-viewing-Website
-a project including car webdite with html css javascript , login page
+a project includes a car website with HTML CSS javascript, login page
 Project Title
 A brief description of the project and what it does.
 
